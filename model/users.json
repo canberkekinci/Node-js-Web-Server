@@ -1,0 +1,29 @@
+[
+    {
+        "username":"omeryildirim",
+        "roles": {
+            "User": 2001,
+            "Editor": 1984,
+            "Admin": 5150
+        },
+        "password":"$2b$10$HqkpQWJgw2iGdcjPL/XkYeM4kDE8MVFDHWVBnyb1ZXbNfE9kI1Hd.",
+        "refreshToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Im9tZXJ5aWxkaXJpbSIsImlhdCI6MTcyODEyODcyNywiZXhwIjoxNzI4MjE1MTI3fQ.OE2JchFO1hxEvreqLjlqPIJ4LcInUUKyqppCWo_62XA"
+    },
+    {
+        "username":"canberkekinci",
+        "roles": {
+            "User": 2001,
+            "Editor": 1984
+        },
+        "password":"$2b$10$bPdZbZBUGjWOU1MPvix8leDBQAY8ksbvZzPiEQIosBnJBLBExuwU2",
+        "refreshToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImNhbmJlcmtla2luY2kiLCJpYXQiOjE3MjgxMjg3MzksImV4cCI6MTcyODIxNTEzOX0.-ytCKhrBZZ_OYl-8SqfDc6PJAj-dCiua-krVIWXxlds"
+    },
+    {
+        "username":"bilmemkim",
+        "roles": {
+            "User": 2001
+        },
+        "password":"$2b$10$j531kckeryUZaBh96P6zP.7c7WpS1L/70ornnM1aEFlbDqpcOtxlG",
+        "refreshToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImJpbG1lbWtpbSIsImlhdCI6MTcyODEyODc5MywiZXhwIjoxNzI4MjE1MTkzfQ.i9VleVgyyLjH37hG7z4ATF9L-ew4liDBV9sQWGnU8BU"
+    }
+]
